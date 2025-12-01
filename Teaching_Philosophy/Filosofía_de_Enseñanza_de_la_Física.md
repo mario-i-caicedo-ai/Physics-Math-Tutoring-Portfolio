@@ -1,5 +1,6 @@
-# Mario I. Caicedo, PhD
-**Filosofía de Enseñanza de la Física**
+# Mi Filosofía de Enseñanza de la Física
+
+**Mario I. Caicedo, PhD**
 
 Soy Mario Iván Caicedo Sandgren, Profesor de Física jubilado de la Universidad Simón Bolívar, una institución de gran reputación en América Latina. A lo largo de una carrera de 30 años, he enseñado e investigado en cuatro áreas interconectadas: física teórica y matemática, matemáticas, geociencias y ciencias de la complejidad. Para mí, la enseñanza nunca ha consistido en la simple transmisión de conocimientos, sino en actuar como un catalizador para la curiosidad, el pensamiento crítico y un amor genuino por el descubrimiento.
 
