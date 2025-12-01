@@ -88,14 +88,30 @@ Here's a sample from my tutoring work showing both approaches to the same proble
 
 ## Who I Teach
 
+### The Full Spectrum: Age 8 to PhD
+
+**Yes, really - from elementary school to graduate school.** The same curiosity that drives a PhD student asking "how do we measure astronomical distances?" is present in an 8-year-old asking "why does the balloon stick to the wall?"
+
+### Young Learners (Ages 8-14)
+- **Science game companion**: Destroying (I mean *exploring*!) Discovery Science boxes together
+- **Competition preparation**: Coached an 11-year-old in Costa Rica for the Math Olympics (she did very well!)
+- **Playful discovery**: Making physics and math fun through hands-on experiments, games, and curiosity-driven exploration
+- **Building foundations**: Developing intuition and love for science early, before bad habits form
+
+The key? **Same principles, different language.** Kids don't need dumbed-down science - they need science presented with wonder, play, and respect for their intelligence.
+
 ### Current Students
+- **Elementary/Middle School**: Building curiosity, competition prep, gifted programs
+- **High School**: AP Physics, AP Calculus, SAT/ACT prep, science fair mentoring
 - **Advanced undergraduates**: Preparing for graduate school, research projects
 - **Graduate students**: Master's and PhD level physics and mathematics
 - **Engineers**: Applied mathematics, differential equations, numerical methods
-- **Self-learners**: Anyone with curiosity and determination
+- **Parents**: Yes! I've helped parents re-learn math to help their kids
 
 ### Topics I Cover
-- **Introductory**: Calculus-based physics, linear algebra, differential equations
+- **Elementary/Middle School**: Math competitions, science experiments, building intuition
+- **High School**: AP Physics (all levels), AP Calculus, competition preparation
+- **Introductory College**: Calculus-based physics, linear algebra, differential equations
 - **Intermediate**: Classical mechanics, E&M, quantum mechanics, mathematical methods
 - **Advanced**: QFT, general relativity, topology, differential geometry, Lie groups
 - **Specialized**: Seismology, wave propagation, complexity science
@@ -121,10 +137,10 @@ All my course repositories are open-source and available on GitHub:
 **Experience**:
 - 30+ years as Professor of Physics at Universidad Simón Bolívar
 - Taught all levels: introductory physics through graduate quantum field theory
-- Mentored 38 undergraduate research projects
-- Supervised 4 Master's theses
-- Co-supervised 2 PhD students
+- Mentored 38 undergraduate research projects, 4 Master's theses, 2 PhD students
+- **Tutored young learners**: Science game companion for 8-year-old, Math Olympics coach for 11-year-old (Costa Rica)
 - Research areas: theoretical physics, mathematical physics, geosciences, complexity science
+- Parenting approach to teaching: Curiosity, play, and destroying science boxes together 🔬
 
 **Current Location**: Katy, Texas (Houston area)
 
@@ -132,12 +148,20 @@ All my course repositories are open-source and available on GitHub:
 
 ## Contact & Rates
 
-**Tutoring Rate**: $75-100/hour (depending on level and frequency)
+**Tutoring Rate**: 
+- **Elementary/Middle School**: $50/hour
+- **High School (AP, Competition Prep)**: $60-75/hour
+- **College/University**: $75-100/hour
+- **Graduate Level**: $100+/hour
+
+*Rates vary by frequency, group sessions, and specific needs*
 
 **Available for**:
 - One-on-one tutoring (online via Zoom)
-- Small group sessions
-- Exam preparation
+- Small group sessions (great for siblings or study groups!)
+- Science game companion for curious kids
+- Competition preparation (Math Olympics, Science Fair)
+- Exam preparation (AP, SAT, university exams)
 - Research mentoring
 - Special topics courses
 
@@ -161,4 +185,5 @@ The only silly question is the one left unasked. ☕
 
 ---
 
+*"My mind is enough to play." - M.I.C.*
 *"My mind is enough to play." - M.I.C.*
