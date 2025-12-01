@@ -1,3 +1,22 @@
+<table>
+  <tr>
+    <td width="30%" valign="top">
+      <img src="Assets/mario_face.jpg" width="100%" alt="Mario Caicedo">
+      <br><br>
+      <div align="center">
+        <b>Mario I. Caicedo</b><br>
+        <i>Physics & Math Tutor</i>
+      </div>
+    </td>
+    <td width="70%" valign="top">
+      <img src="Assets/group_photo.jpg" width="100%" alt="University Group">
+      <br><br>
+      <div align="center">
+        <i>With my former students at Universidad Simón Bolívar, discussing elements of Quantum Theory</i>
+      </div>
+    </td>
+  </tr>
+</table>
 # Physics, Math, and Coffee: Tutoring Portfolio
 
 **Dr. Mario I. Caicedo**  
