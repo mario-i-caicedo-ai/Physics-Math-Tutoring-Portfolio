@@ -40,9 +40,10 @@ Key principles:
 - **Make it joyful**: Learning should be engaging, playful, and deeply satisfying
 
 Read my full teaching philosophy:
-- [Physics Teaching Philosophy (English)](./Teaching-Philosophy/Physics-Teaching-Philosophy-EN.pdf)
+
+- [Mathematics Teaching Philosophy (English)](./Teaching_Philosophy/Advanced_Math_Teaching_Philosophy.pdf)
+- [Physics Teaching Philosophy (English)](./Teaching_Philosophy/Physics-Teaching-Philosophy-EN.pdf)
 - [Filosofía de Enseñanza de Física (Español)](./Teaching-Philosophy/Physics-Teaching-Philosophy-ES.pdf)
-- [Mathematics Teaching Philosophy (English)](./Teaching-Philosophy/Math-Teaching-Philosophy-EN.pdf)
 - [Filosofía de Enseñanza de Matemáticas (Español)](./Teaching-Philosophy/Math-Teaching-Philosophy-ES.pdf)
 
 ---
