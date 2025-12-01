@@ -9,7 +9,7 @@
       </div>
     </td>
     <td width="70%" valign="top">
-      <img src="Assets/group_photo.jpg" width="100%" alt="University Group">
+      <img src="Assets/Mario_Students_QFT.jpg" width="100%" alt="University Group">
       <br><br>
       <div align="center">
         <i>With my former students at Universidad Simón Bolívar, discussing elements of Quantum Theory</i>
