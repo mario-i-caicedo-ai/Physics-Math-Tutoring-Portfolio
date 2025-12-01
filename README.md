@@ -6,9 +6,45 @@
 
 ---
 
-## About This Repository
+## Why I Teach
 
-This repository showcases my approach to teaching physics and mathematics at all levels—from introductory calculus-based courses to advanced graduate topics in quantum field theory, relativity, and mathematical physics.
+**Teaching isn't what I do. It's who I am.**
+
+My friends always tell me: "Mario, you cannot hide the Professor inside you. No matter what we talk about, you're always studying, teaching, and—most crazy—always learning."
+
+They're right. I migrated from Venezuela not because I stopped loving science, but because the economic and political situation made it unbearable. I took jobs in IT, delivery, call centers—whatever paid the bills. But through it all, the Professor kept emerging. In the delivery truck, I'd think about wave equations. At the call center, I'd sketch physics problems on break. **You can't turn off a calling.**
+
+I don't teach because I need credentials or because I'm chasing prestige. I teach because **watching someone's face light up when they finally *get it*** is one of the purest joys in this world. Whether it's an 8-year-old discovering why balloons stick to walls, a struggling high schooler finally understanding Newton's Third Law, or a graduate student grasping the beauty of gauge invariance—that moment of discovery is sacred.
+
+Some of my current students are the children of my former USB students from 20-30 years ago. When parents bring their kids to me saying "Professor, I want them to experience what you taught me about curiosity and discovery," that's when I know this calling has been worthwhile. There's something profound about teaching across generations, about lighting the same fire of wonder in a child that once burned in their parent's eyes.
+
+---
+
+## Every Student Is Brilliant
+
+Let me be clear: **I don't just teach "gifted" kids or top students.** 
+
+Everyone is brilliant. Every single person has the capacity for wonder, curiosity, and understanding. What happens is that society has created this toxic stigma that science and math are "horrible and boring" or "only for smart people." That's garbage.
+
+I've taught the student who "failed math every year" and watched them discover they actually love mathematics when it's presented with patience and joy. I've taught the kid who was convinced they were "bad at physics" transform into someone who asks me questions I have to think hard about.
+
+**The difference isn't the student—it's the approach.**
+
+If you think you're "not a math person" or "can't do physics," I respectfully disagree. You just haven't had someone show you these subjects the way they deserve to be shown: with wonder, with patience, with the understanding that frustration is *part of learning*, not a sign of failure.
+
+---
+
+## What I Actually Do
+
+I don't just explain concepts. I **light fires**. I show you that physics isn't about memorizing formulas—it's about understanding how the universe actually works. I show you that mathematics isn't about getting the "right answer"—it's about building beautiful logical structures that help us see patterns in nature.
+
+I've taught physics, mathematics, field theory... and yes, even some cooking. Because once you understand heat transfer and chemical reactions, cooking is just delicious applied science. And some of my best teaching moments have happened in kitchens, over coffee, while explaining why the soufflé rises or why you need to temper chocolate at exactly the right temperature.
+
+And most importantly: **I'm still learning.** Every student teaches me something. Every question makes me think deeper. Every "why?" pushes me to understand better. That's what keeps this joyful after 30+ years.
+
+---
+
+## Teaching Philosophy: Two Paths to Understanding
 
 **What makes my teaching different?** I believe in two complementary approaches:
 
@@ -28,48 +64,68 @@ This repository showcases my approach to teaching physics and mathematics at all
 
 ---
 
-## Teaching Philosophy
+## My Teaching Philosophy in Detail
 
 > *"I view teaching physics as a privileged conversation across time and culture—a chance to engage with the elegance of nature, the ingenuity of the human mind, and the pure joy of discovery."*
 
-Key principles:
+**Key principles:**
 - **Curiosity over correctness**: The only silly question is the one left unasked
 - **Intuition meets rigor**: Connect abstract mathematics with physical insight
 - **Humanize science**: Share the stories and struggles of the scientists behind the discoveries
 - **Embrace the unknowns**: Real science begins where our models break down
 - **Make it joyful**: Learning should be engaging, playful, and deeply satisfying
 
-Read my full teaching philosophy:
-
-- [Mathematics Teaching Philosophy (English)](./Teaching_Philosophy/Advanced_Math_Teaching_Philosophy.pdf)
+**Read my full teaching philosophy:**
 - [Physics Teaching Philosophy (English)](./Teaching_Philosophy/Physics-Teaching-Philosophy-EN.pdf)
-- [Filosofía de Enseñanza de Física (Español)](./Teaching_Philosophy/Filosofía_de_Enseñanza_de_la_Física.md)
-- [Filosofía de Enseñanza de Matemáticas (Español)](./Teaching-Philosophy/Math-Teaching-Philosophy-ES.pdf)
+- [Filosofía de Enseñanza de Física (Español)](./Teaching_Philosophy/Physics-Teaching-Philosophy-ES.pdf)
+- [Mathematics Teaching Philosophy (English)](./Teaching_Philosophy/Math-Teaching-Philosophy-EN.pdf)
+- [Filosofía de Enseñanza de Matemáticas (Español)](./Teaching_Philosophy/Math-Teaching-Philosophy-ES.pdf)
 
 ---
 
-## What's Inside
+## Who I Teach
 
-This repository contains real examples of my tutoring work, organized by topic and level:
+### The Full Spectrum: Age 8 to PhD
 
-### Advanced Mathematics
-- **Calculus & Analysis**: Limits, continuity, differentiability, asymptotic behavior, uniform continuity
-- **Real Analysis**: ε-δ proofs, function spaces, convergence
-- **Complex Analysis**: Contour integration, residue theory
-- **Differential Equations**: ODEs, PDEs, special functions
+**Yes, really - from elementary school to graduate school.** The same curiosity that drives a PhD student asking "how do we measure astronomical distances?" is present in an 8-year-old asking "why does the balloon stick to the wall?"
 
-### Physics
-- **Classical Mechanics**: Lagrangian and Hamiltonian formulations
+### Young Learners (Ages 8-14)
+- **Science game companion**: Destroying (I mean *exploring*!) Discovery Science boxes together
+- **Competition preparation**: Coached an 11-year-old in Costa Rica for the Math Olympics (she did very well!)
+- **Kitchen science**: Learning thermodynamics while making ice cream, pH while baking
+- **Playful discovery**: Making physics and math fun through hands-on experiments, games, and curiosity-driven exploration
+- **Building foundations**: Developing intuition and love for science early, before bad habits form
+
+The key? **Same principles, different language.** Kids don't need dumbed-down science - they need science presented with wonder, play, and respect for their intelligence.
+
+### High School & Early College
+- **AP Physics (all levels)**: What Americans call "AP" is standard first-year university physics elsewhere - I've taught this material to classes of 120+ engineering students at university level
+- **AP Calculus**: Again, standard first-year calculus - I taught this for 30 years at university
+- **SAT/ACT preparation**: The math and physics portions
+- **Competition preparation**: Math Olympics, Science Olympiad, Physics Bowl
+- **College preparation**: Building the foundation for STEM majors
+
+*Note: I don't claim to be an "AP expert" - I'm a university physics professor who happens to teach what the US education system labels as "AP." The content is identical to what I taught to first-year engineering students for three decades.*
+
+### University Students
+- **Undergraduate physics & mathematics**: All core courses from intro to advanced
+- **Engineering mathematics**: Applied mathematics, differential equations, numerical methods
+- **Pre-med physics**: MCAT preparation with deep conceptual understanding
+- **Research mentoring**: Undergraduate research projects, conference preparation
+
+### Graduate Students & Advanced Topics
+- **Classical mechanics**: Lagrangian and Hamiltonian formulations
 - **Electromagnetism**: From Maxwell to advanced topics in continuous media
-- **Quantum Mechanics**: Wave functions, operators, perturbation theory
+- **Quantum mechanics**: Wave functions, operators, perturbation theory
 - **Relativity**: Special and general relativity, tensor calculus
-- **Quantum Field Theory**: Path integrals, Feynman diagrams
-- **Wave Mechanics**: Optics, acoustics, wave propagation
+- **Quantum field theory**: Path integrals, Feynman diagrams
+- **Mathematical methods**: Differential geometry, topology, Lie groups and algebras
+- **Specialized topics**: Seismology, wave propagation, complexity science
 
-### Computational Methods
-- **Python for Physics**: Jupyter notebooks, numerical methods
-- **Data Science Applications**: Machine learning for physical systems
-- **Symbolic Computation**: Using modern tools for complex calculations
+### Everyone Else
+- **Parents**: Yes! I've helped parents re-learn math to help their kids
+- **Career changers**: Moving into STEM fields later in life
+- **Curious learners**: Anyone who wants to understand how the universe works
 
 ---
 
@@ -85,41 +141,11 @@ Here's a sample from my tutoring work showing both approaches to the same proble
 
 **Both are correct. Both teach different skills. Students need both.**
 
----
-
-## Who I Teach
-
-### The Full Spectrum: Age 8 to PhD
-
-**Yes, really - from elementary school to graduate school.** The same curiosity that drives a PhD student asking "how do we measure astronomical distances?" is present in an 8-year-old asking "why does the balloon stick to the wall?"
-
-### Young Learners (Ages 8-14)
-- **Science game companion**: Destroying (I mean *exploring*!) Discovery Science boxes together
-- **Competition preparation**: Coached an 11-year-old in Costa Rica for the Math Olympics (she did very well!)
-- **Playful discovery**: Making physics and math fun through hands-on experiments, games, and curiosity-driven exploration
-- **Building foundations**: Developing intuition and love for science early, before bad habits form
-
-The key? **Same principles, different language.** Kids don't need dumbed-down science - they need science presented with wonder, play, and respect for their intelligence.
-
-### Current Students
-- **Elementary/Middle School**: Building curiosity, competition prep, gifted programs
-- **High School**: AP Physics, AP Calculus, SAT/ACT prep, science fair mentoring
-- **Advanced undergraduates**: Preparing for graduate school, research projects
-- **Graduate students**: Master's and PhD level physics and mathematics
-- **Engineers**: Applied mathematics, differential equations, numerical methods
-- **Parents**: Yes! I've helped parents re-learn math to help their kids
-
-### Topics I Cover
-- **Elementary/Middle School**: Math competitions, science experiments, building intuition
-- **High School**: AP Physics (all levels), AP Calculus, competition preparation
-- **Introductory College**: Calculus-based physics, linear algebra, differential equations
-- **Intermediate**: Classical mechanics, E&M, quantum mechanics, mathematical methods
-- **Advanced**: QFT, general relativity, topology, differential geometry, Lie groups
-- **Specialized**: Seismology, wave propagation, complexity science
+See more examples in the [Examples folder](./Examples/).
 
 ---
 
-## Teaching Materials
+## Teaching Materials & Resources
 
 All my course repositories are open-source and available on GitHub:
 - [Classical Field Theory & Relativity](https://github.com/mario-i-caicedo-ai/Relatividad_y_Teoria_Clasica_de_Campos)
@@ -130,7 +156,7 @@ All my course repositories are open-source and available on GitHub:
 
 ---
 
-## Background
+## Background & Experience
 
 **Education**:
 - PhD in Physics, Universidad Simón Bolívar, Venezuela
@@ -138,10 +164,11 @@ All my course repositories are open-source and available on GitHub:
 **Experience**:
 - 30+ years as Professor of Physics at Universidad Simón Bolívar
 - Taught all levels: introductory physics through graduate quantum field theory
+- Taught classes ranging from individual sessions to lecture halls of 120+ students
 - Mentored 38 undergraduate research projects, 4 Master's theses, 2 PhD students
 - **Tutored young learners**: Science game companion for 8-year-old, Math Olympics coach for 11-year-old (Costa Rica)
 - Research areas: theoretical physics, mathematical physics, geosciences, complexity science
-- Parenting approach to teaching: Curiosity, play, and destroying science boxes together 🔬
+- Currently teaching the children of my former students—a profound honor
 
 **Current Location**: Katy, Texas (Houston area)
 
@@ -155,14 +182,15 @@ All my course repositories are open-source and available on GitHub:
 - **College/University**: $75-100/hour
 - **Graduate Level**: $100+/hour
 
-*Rates vary by frequency, group sessions, and specific needs*
+*Rates vary by frequency, group sessions, and specific needs. Contact me to discuss.*
 
 **Available for**:
 - One-on-one tutoring (online via Zoom)
 - Small group sessions (great for siblings or study groups!)
 - Science game companion for curious kids
-- Competition preparation (Math Olympics, Science Fair)
-- Exam preparation (AP, SAT, university exams)
+- Kitchen science sessions (learn physics while cooking!)
+- Competition preparation (Math Olympics, Science Olympiad, Physics Bowl)
+- Exam preparation (AP, SAT, MCAT, university exams)
 - Research mentoring
 - Special topics courses
 
@@ -174,17 +202,17 @@ All my course repositories are open-source and available on GitHub:
 
 ---
 
-## A Note on My Approach
+## A Final Word
 
-I retired from Venezuela not because I stopped loving science, but because the economic and political situation made it unsustainable. I migrated first to Colombia, then to Texas, taking various jobs—IT, delivery, call centers—to survive while keeping my mind alive through teaching.
+Now, I'm rebuilding in Texas. My mind is still here, still curious, still asking "but *how* did they really measure that?" And I've found that tools like AI and open-source platforms let me continue what I love most: helping students discover the joy of understanding.
 
-Now, I'm rebuilding. My mind is still here, still curious, still asking "but *how* did they really measure that?" And I've found that tools like AI and open-source platforms let me continue what I love most: helping students discover the joy of understanding.
-
-**If you're struggling with physics or math, if you want to truly *understand* rather than just memorize, if you want a teacher who's been in the trenches and knows what it's like to fight for knowledge—let's talk.**
+**If you're struggling with physics or math, if you think you're "not good at science," if you want to truly *understand* rather than just memorize, if you want a teacher who's been in the trenches and knows what it's like to fight for knowledge—let's talk.**
 
 The only silly question is the one left unasked. ☕
 
 ---
 
+*"Mario, you cannot hide the Professor inside you." - My friends*  
+*"My mind is enough to play." - M.I.C.*
 *"My mind is enough to play." - M.I.C.*
 *"My mind is enough to play." - M.I.C.*
