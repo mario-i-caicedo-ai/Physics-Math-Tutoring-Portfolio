@@ -1,7 +1,7 @@
 # This is a Sample of the kind of contents I hve been creating to Support my Tutoring
 
 - [Las Mates Son Divertidas](../Free_Reading_Study_Material/Las_Mates_Son_Divertidas.pdf)
-- [Math is Fun](../Free_Reading_Study_Material/Math.pdf)
+- [Math is Fun](../Free_Reading_Study_Material/Math_is_Fun.pdf)
 - [Solution of an OLD exam from Professor's study material](../Free_Reading_Study_Material/EXAM_MAT100.pdf)
 - [Estas notas fueron preparadas para una tutoria de seis meses a un par de estudiantes de la Universidad de Delft en  Los paises Bajos](../Free_Reading_Study_Material/Notas_Acerca_de_Ecuaciones_Diferenciales.pdf)
 - [Dos Horas de Consulta Acerca de una Técnica de Integración](../Free_Reading_Study_Material/El_Método_de_Fracciones_Parciales.pdf).
