@@ -103,7 +103,7 @@ Y lo más importante: **Aún estoy aprendiendo.** Cada estudiante me enseña alg
 
 **Lee mi filosofía de enseñanza completa:**
 - [Filosofía de Enseñanza de Física (Español)](./Teaching-Philosophy/Advanced_Physics_Teaching_Philosophy.pdf)
-- [Physics Teaching Philosophy (English)](./Teaching-Philosophy/Physics-Teaching-Philosophy-EN.pdf)
+- [Physics Teaching Philosophy (English)](./Teaching_Philosophy/Advanced_Physics_Teaching_Philosophy.pdf)
 - [Filosofía de Enseñanza de Matemáticas (Español)](./Teaching-Philosophy/Math-Teaching-Philosophy-ES.pdf)
 - [Mathematics Teaching Philosophy (English)](./Teaching-Philosophy/Math-Teaching-Philosophy-EN.pdf)
 
