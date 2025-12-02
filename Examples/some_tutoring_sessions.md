@@ -6,4 +6,4 @@
 - [Estas notas fueron preparadas para una tutoria de seis meses a un par de estudiantes de la Universidad de Delft en  Los paises Bajos](../Free_Reading_Study_Material/Notas_Acerca_de_Ecuaciones_Diferenciales.pdf)
 - [Dos Horas de Consulta Acerca de una Técnica de Integración](../Free_Reading_Study_Material/El_Método_de_Fracciones_Parciales.pdf).
 - [Solution of a Century XIX MIT Exam](../Free_Reading_Study_Material/MIT_Entrance_Exam_1869.pdf)
-- [Notes for Non Calculus Based Physics](../Free_Reading_Study_Material/Algebra_Based_Physics_MECHANICS (2).pdf)
+- [Notes for Non Calculus Based Physics](../Free_Reading_Study_Material/Algebra_Based_Physics_Mechanics.pdf)
