@@ -1,3 +1,5 @@
+**[Español]** | **[English](./README.md)**
+
 <table>
   <tr>
     <td width="30%" valign="top">
@@ -17,8 +19,6 @@
     </td>
   </tr>
 </table>
-
-**[Español]** | **[English](./README.md)**
 
 # Física, Matemáticas y Café: Portafolio de Tutorías
 
