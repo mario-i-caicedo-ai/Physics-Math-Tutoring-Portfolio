@@ -169,7 +169,7 @@ Aquí hay una muestra de mi trabajo de tutoría mostrando ambos enfoques para el
 
 **Ambos son correctos. Ambos enseñan habilidades diferentes. Los estudiantes necesitan ambos.**
 
-Ve más ejemplos en la [carpeta de Ejemplos](./Examples/).
+Ve más ejemplos en la [carpeta de Ejemplos](./Examples/some_tutoring_sessions.md).
 
 ---
 
