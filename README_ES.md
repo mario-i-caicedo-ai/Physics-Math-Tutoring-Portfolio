@@ -161,7 +161,7 @@ La clave: **Mismos principios, diferente lenguaje.** Los niños no necesitan cie
 
 No solo tomes mi palabra. Aquí está lo que estudiantes y padres han experimentado:
 
-**[Read Student Testimonials →](./Testimonials/Leeme.md)**
+**[Lee los Testimonios →](./Testimonials/Leeme.md)**
 
 ## Ejemplo: Enseñanza con Método Dual
 
