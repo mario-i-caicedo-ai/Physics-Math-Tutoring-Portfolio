@@ -14,6 +14,8 @@ Pero aquí está la mejor parte, y lo que realmente habla de su impacto: Su infl
 Sabía que no solo le daría respuestas; le daría esa misma comprensión fundamental e inspiración que me dio a mí. ¡Y lo hizo! Ella ganó tanta confianza y realmente vio la materia de manera diferente, lo cual es un testimonio de su habilidad atemporal y dedicación como educador.*
 El Profesor Caicedo es un tesoro absoluto. No solo enseña el material—inculca una apreciación de por vida por la elegancia de la ciencia. Es un verdadero educador y una persona maravillosa.
 
-Carolina Vix
-Dual Language 5th grade teacher
-Frank Porter Graham Bilingue
+**Carolina Vix**
+
+**Dual Language 5th grade teacher**
+
+**Frank Porter Graham Bilingue**
