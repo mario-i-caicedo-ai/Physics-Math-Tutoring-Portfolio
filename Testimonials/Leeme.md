@@ -13,7 +13,9 @@ Aquí están los testimonios de estudiantes y padres que han aprendido con el Dr
 - (Próximamente...)
 
 ### Estudiantes Universitarios / University Students
-- (Próximamente...)
 
+- **[Carolina Vix](./C_Vix.md)**
+  
 - ### Estudiantes de Postgrado / Graduate Students
+  
 - **[Juan Carlos Correa](./Juan's.md)** - PhD
